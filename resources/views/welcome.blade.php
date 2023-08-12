@@ -13,6 +13,6 @@
         <!-- Styles -->
     </head>
     <body class="antialiased">
-        hi from our sail clone
+        hi from our own github repo
     </body>
 </html>
